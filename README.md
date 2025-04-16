@@ -69,12 +69,6 @@ Flowers_Shop_Website/
 4. In your browser, go to:  
    `http://localhost/flowers_shop/page1.php`
 
----
-
-## 📫 Contact
-
-Created by **Maram Metro**  
-GitHub: [Maram-Metro](https://github.com/Maram-Metro)
 
 ---
 
